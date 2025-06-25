@@ -12,7 +12,7 @@
 - 🕵️‍♂️ [Nmap Scan Script](#) *(Coming Soon)*
 - 🧠 [Kali Linux Recon Cheatsheet](#)
 - 🎯 [My Security+ Study Notes](https://github.com/cybernerddd/Securityplus-notes/)
-- 🌐 [Web App Pentesting](#)
+- 🌐 [Web App Pentesting](https://github.com/cybernerddd/Web-app-hacking)
 ---
 
 ### 🛠️ Tools & Technologies
