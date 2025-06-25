@@ -11,7 +11,7 @@
 ### 🔒 Latest Cybersecurity Projects
 - 🕵️‍♂️ [Nmap Scan Script](#) *(Coming Soon)*
 - 🧠 [Kali Linux Recon Cheatsheet](#)
-- 🎯 [My Security+ Study Notes](https://github.com/Cybernerddd/SecurityPlus-Notes/tree/main/week1)
+- 🎯 [My Security+ Study Notes](https://github.com/cybernerddd/Securityplus-notes/)
 - 🌐 [Web App Pentesting](#)
 ---
 
