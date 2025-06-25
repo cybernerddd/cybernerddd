@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Ethical Hacker | Cybersecurity Student @IPMC | Red Team Trainee</h3>
 
 - 🔭 I’m currently working on: **Pentesting, Networking, and Linux hacking**
-- 🌱 I’m learning: **CompTIA Security+, Kali Linux Tools, Python**
+- 🌱 I’m learning: **CompTIA Security+, Kali Linux Tools, Python, web-app-security**
 - 💬 Ask me about: **Ethical hacking, Nmap, Wireshark, GitHub setups**
 - ⚡ Fun fact: **I didn’t know what a subnet mask was. Now I scan networks blindfolded.**
 
@@ -12,7 +12,7 @@
 - 🕵️‍♂️ [Nmap Scan Script](#) *(Coming Soon)*
 - 🧠 [Kali Linux Recon Cheatsheet](#)
 - 🎯 [My Security+ Study Notes](#)
-
+- 🌐 [Web App Pentesting]
 ---
 
 ### 🛠️ Tools & Technologies
