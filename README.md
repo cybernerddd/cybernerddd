@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Emma</h1>
-<h3 align="center">Aspiring Ethical Hacker | Cybersecurity Student @IPMC | Red Team Trainee</h3>
-
-- 🔭 I’m currently working on: **Pentesting, Networking, and Linux hacking**
-- 🌱 I’m learning: **CompTIA Security+, Kali Linux Tools, Python, web-app-security**
-- 💬 Ask me about: **Ethical hacking, Nmap, Wireshark, GitHub setups**
-- ⚡ Fun fact: **I didn’t know what a subnet mask was. Now I scan networks blindfolded.**
+<h1 align="center">👋 Hey, I'm Emmanuel (aka Cybernerddd)</h1>
+<h3 align="center">Red Team Apprentice | Web Application Hacker | Cybersecurity Enthusiast | Web Developer</h3>
 
 ---
 
-### 🔒 Latest Cybersecurity Projects
-- 🕵️‍♂️ [Nmap Scan Script](#) *(Coming Soon)*
-- 🧠 [Kali Linux Recon Cheatsheet](#)
-- 🎯 [My Security+ Study Notes](https://github.com/cybernerddd/Securityplus-notes/)
-- 🌐 [Web App Pentesting](https://github.com/cybernerddd/Web-app-hacking)
+### 🚀 About Me
+- 🔭 Currently building: **Red Team skills (Web Exploitation, OSINT, Phishing, AV/EDR bypass & Web Development)**
+- 🌱 Learning path: **OWASP Top 10, BurpSuite, Advanced Payload Crafting**
+- 🧑‍💻 Background: **Networking + Linux + Security Fundamentals**
+- 💡 Motto: *“Hack to learn, learn to secure.”*
+- ⚡ Fun fact: *I started hacking from curiosity — now I weaponize it for defense.*
+
 ---
 
-### 🛠️ Tools & Technologies
+### 🔒 Cybersecurity Projects
+- 🕵️‍♂️ [Packet Sniffer](https://github.com/cybernerddd/packet-sniffer) *(Python CLI tool)*
+- 🎭 [ARP Spoofer](https://github.com/cybernerddd/arp-spoofer) *(MITM attack demo)*
+- 📖 [Security+ Notes](https://github.com/cybernerddd/Securityplus-notes)
+- 🌐 [Web Hacking Labs](https://github.com/cybernerddd/Web-app-hacking)
+
+---
+
+### 🛠️ Tools & Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=nmap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🌍 Web Development Projects
+- 💻 [Personal Portfolio Website](#) *(Coming Soon)*
+- 📰 [Simple Blog Page](#)
+- 🎨 [HTML & CSS Practice Projects](#)
+
+---
+
+### 📫 Connect With Me
+- 🌍 [GitHub](https://github.com/cybernerddd)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-a-284803370)
+- 📝 Blogging soon: *Payload of the Day* series on Hashnode  
+
+---
+or=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
