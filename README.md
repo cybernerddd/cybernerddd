@@ -13,8 +13,8 @@
 ---
 
 ### 🔒 Cybersecurity Projects
-- 🕵️‍♂️ [Packet Sniffer](https://github.com/cybernerddd/packet-sniffer) *(Python CLI tool)*
-- 🎭 [ARP Spoofer](https://github.com/cybernerddd/arp-spoofer) *(MITM attack demo)*
+- 🕵️‍♂️ [Packet Sniffer](https://github.com/cybernerddd/packet-sniffer-tool) *(Python CLI tool)*
+- 🎭 [ARP Spoofer](https://github.com/cybernerddd/Arp-spoofer) *(MITM attack demo)*
 - 📖 [Security+ Notes](https://github.com/cybernerddd/Securityplus-notes)
 - 🌐 [Web Hacking Labs](https://github.com/cybernerddd/Web-app-hacking)
 
