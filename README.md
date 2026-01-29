@@ -1,55 +1,69 @@
-<h1 align="center">👋 Hey, I'm Emmanuel (aka Cybernerddd)</h1>
-<h3 align="center">Red Team Apprentice | Web Application Hacker | Cybersecurity Enthusiast | Web Developer</h3>
+# 👋 Hi, I'm Emmanuel (aka **cybernerddd**)
+
+
+💻 **Web Application Security Learner | Red Team Trainee | Ethical Hacking Enthusiast**  
+🌍 Based in Accra, Ghana  
+🧠 Documenting my journey into offensive security, one lab at a time  
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building: **Red Team skills (Web Exploitation, OSINT, Phishing, AV/EDR bypass & Web Development)**
-- 🌱 Learning path: **OWASP Top 10, BurpSuite, Advanced Payload Crafting**
-- 🧑‍💻 Background: **Networking + Linux + Security Fundamentals**
-- 💡 Motto: *“Hack to learn, learn to secure.”*
-- ⚡ Fun fact: *I started hacking from curiosity — now I weaponize it for defense.*
+## 🚀 About Me
+
+I'm focused on becoming highly skilled in **Web Application Penetration Testing** and **Red Team operations**.  
+I spend most of my time solving labs, building tools, and writing technical notes to deeply understand how real-world attacks work.
+
+I believe in **learning in public** — so most of what I study gets turned into notes, repos, or writeups here.
 
 ---
 
-### 🔒 Cybersecurity Projects
-- 🕵️‍♂️ [Packet Sniffer](https://github.com/cybernerddd/packet-sniffer-tool) *(Python CLI tool)*
-- 🎭 [ARP Spoofer](https://github.com/cybernerddd/Arp-spoofer) *(MITM attack demo)*
-- 📖 [Security+ Notes](https://github.com/cybernerddd/Securityplus-notes)
-- 🌐 [Web Hacking Labs](https://github.com/cybernerddd/Web-app-hacking)
+## 🎯 Current Focus
+
+- 🔐 Web Application Security (OWASP Top 10 and beyond)
+- 🧪 PortSwigger Web Security Academy labs
+- 🎭 Authentication & Access Control vulnerabilities
+- 💣 SQL Injection, XSS, CSRF
+- 🧰 Building and improving Python pentesting tools
+- 🧠 Understanding how attacks work at a deeper level (not just payloads)
 
 ---
 
-### 🛠️ Tools & Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=nmap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🛠 Featured Projects
+
+### 🧪 [Pentest Labs Notes](https://github.com/cybernerddd/pentest-labs)
+Writeups and personal notes from security labs I solve.  
+Focused on understanding **why** vulnerabilities work, not just how to exploit them.
+
+### 🐍 Python Pentesting Tools (In Progress)
+Custom tools I built while learning networking and MITM attacks:
+- Packet Sniffer  
+- MAC Address Changer  
+- ARP Spoofer  
+
+Refactoring them into clean CLI tools with proper documentation.
 
 ---
 
-### 🌍 Web Development Projects
-- 💻 [Personal Portfolio Website](#) *(Coming Soon)*
-- 📰 [Simple Blog Page](#)
-- 🎨 [HTML & CSS Practice Projects](#)
+## 📚 Learning Platforms
+
+- PortSwigger Web Security Academy  
+- TryHackMe  
+- Real-world vulnerability research & writeups  
 
 ---
 
-### 📫 Connect With Me
-- 🌍 [GitHub](https://github.com/cybernerddd)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-a-284803370)
-- 📝 Blogging soon: *Payload of the Day* series on Hashnode  
+## 🧠 Goals
+
+- Master advanced web exploitation techniques  
+- Transition into professional **Red Teaming**  
+- Contribute tools, research, and writeups to the security community  
 
 ---
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cybernerddd  
+- 🐙 GitHub: https://github.com/cybernerddd  
 
 ---
 
-
+> “Every expert hacker was once confused by their first SQL injection.”
