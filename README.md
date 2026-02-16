@@ -37,7 +37,8 @@ Focused on understanding **why** vulnerabilities work, not just how to exploit t
 Custom tools I built while learning networking and MITM attacks:
 - Packet Sniffer  
 - MAC Address Changer  
-- ARP Spoofer  
+- ARP Spoofer
+- cnr multi-tool
 
 Refactoring them into clean CLI tools with proper documentation.
 
