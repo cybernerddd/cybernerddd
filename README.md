@@ -33,12 +33,21 @@ I believe in **learning in public** — so most of what I study gets turned into
 Writeups and personal notes from security labs I solve.  
 Focused on understanding **why** vulnerabilities work, not just how to exploit them.
 
-### 🐍 Python Pentesting Tools (In Progress)
+### 🐍 Python Pentesting Tools (In Progress-2026)
 Custom tools I built while learning networking and MITM attacks:
 - Packet Sniffer  
 - MAC Address Changer  
 - ARP Spoofer
 - cnr multi-tool
+- port_scanner
+- subdomain_enum
+- directory_fuzzer
+- web_crawler
+- xss_scanner
+- sql_injection_tester
+- js_endpoint_extractor
+- idor_finder
+- recon_automation
 
 Refactoring them into clean CLI tools with proper documentation.
 
