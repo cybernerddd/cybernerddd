@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Emmanuel (aka **cybernerddd**)
 
+🔐 CompTIA Security+ Certified (SY0-701)
+🎯 Focus: Web Application Security & Red Teaming
+🚀 Currently learning: eJPT & Offensive Security
 
 💻 **Web Application Security Learner | Red Team Trainee | Ethical Hacking Enthusiast**  
 🌍 Based in Accra, Ghana  
