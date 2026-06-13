@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel (aka **cybernerddd**)
+# 👋 Hi, I'm Ampah (aka **cybernerddd**)
 
 🔐 Certificate in Cybersecurity (IPMC)
 
