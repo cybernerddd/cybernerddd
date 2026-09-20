@@ -79,24 +79,24 @@ A collection of tools built while learning networking, web security, and offensi
 * IDOR Finder
 * Recon Automation Toolkit
 
-Currently refactoring these tools into clean CLI applications with proper documentation and usage examples.
+Currently refactoring the tools into clean CLI applications with proper documentation and usage examples.
 
 ---
 
 ## ✍️ Writing & Research
 
-* Payload of the Day Series
-* Security Notes & Lab Writeups
-* Vulnerability Research
-* Web Security Learning Notes
-* Offensive Security Experiments
+* [Payload of the Day Series](https://from-zero-to-cyber.hashnode.dev/)
+* [Security Notes & Lab Writeups](https://medium.com/@cybernerddd)
+* [Vulnerability Research](https://github.com/cybernerddd/cybernerddd-security-research)
+* [Web Security Learning Notes](https://github.com/cybernerddd/pentest-labs/tree/main/web)
+* [Offensive Security Experiments](https://github.com/cybernerddd/pentest-labs)
 
 ---
 
 ## 📚 Learning Platforms
 
 * PortSwigger Web Security Academy
-* TryHackMe
+* TryHackMe, HackerDNA
 * OSSU Computer Science
 * Technical Writeups & Vulnerability Research
 
